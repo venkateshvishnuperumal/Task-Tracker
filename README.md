@@ -26,6 +26,7 @@ Installation
 1.Clone the Repository:
 
 git clone https://github.com/venkateshvishnuperumal/Task-Tracker.git
+
 cd task-tracker
 
 2.Initialize the Project: Install any necessary dependencies
